@@ -1,7 +1,7 @@
 # freebitco.in-BOT
 A bot to claim BTC on [freebitco.in][1]
 
-#Before starting
+# Before starting
 Before continue, you need an account on [freebitco.in][1]
 
 # How is work ?
