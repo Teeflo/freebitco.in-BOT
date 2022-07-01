@@ -14,10 +14,16 @@ Before continue, you need an account on [freebitco.in][1]
 • install the requierement.txt
 run -> `pip install -r requierement.txt`
 
-# Run
-•Now you can click on [start.bat][2]*
+# Install the correct driver
 
-**if you are on windows*
+•Go to chrome and see what version it is ( on `chrome://settings/help` )
+
+•Go to [chromedriver.chromium.org][7] and __install the correct version__
+
+# Run
+•Now you can click on [start.bat][2]
+
+*if you are on windows*
 
 •Else you can run the [bot.py][3] with python3
 
@@ -31,3 +37,5 @@ Tanks to [Gabriel Aragao][4] for [this bot][5]
 [3]: bot.py
 [4]: https://github.com/Gabriel-Aragao
 [5]: https://github.com/Gabriel-Aragao/freebitcoin-auto-better
+[6]: chrome://settings/help
+[7]: https://chromedriver.chromium.org/downloads
