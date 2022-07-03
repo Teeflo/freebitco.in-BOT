@@ -1,4 +1,4 @@
-# freebitco.in-BOT
+# freebitco.in-BOT:robot:
 A bot to claim BTC on [freebitco.in][1]
 
 # Before starting
