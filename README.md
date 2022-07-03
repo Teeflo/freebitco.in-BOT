@@ -20,6 +20,8 @@ run -> `pip install -r requierement.txt`
 
 •Go to [chromedriver.chromium.org][7] and __install the correct version__
 
+• Put the correct Unzip version on the folder *Drivers*
+
 # Run
 •Now you can click on [start.bat][2]
 
